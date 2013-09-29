@@ -1,7 +1,7 @@
 dropwizard-helloworld
 =====================
 A line to commit for lab3
-Line inserted for lab3
+Line inserted for lab3 checking
 
 $ mvn clean package
 
